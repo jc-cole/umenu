@@ -1,4 +1,4 @@
-# umenu — UMass Dining in your terminal
+# ssh umenu.tech — UMass Dining in your terminal
 
 A goofy, actually-useful CLI for UMass Dining menus. Scrapes the official pages,
 caches locally, and can be accessed with SSH for zero-install demos.
@@ -7,7 +7,6 @@ caches locally, and can be accessed with SSH for zero-install demos.
 - `umenu today` — all halls for today
 - `umenu hall worcester --meal dinner`
 - `umenu search "tofu"`
-- Optional: `umenu vibes` / `umenu recommend` (Gemini)
 
 ## Quickstart (local)
 ```bash
