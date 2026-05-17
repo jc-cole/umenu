@@ -1,4 +1,4 @@
-# ssh umenu.tech - Mass Dining in your terminal - Hack UMass 2025
+# ssh umenu.tech - UMass Dining in your terminal - HackUMass 2025
 
 A goofy, shockingly useful CLI for UMass Dining menus. Scrapes the official pages,
 caches locally, and can be accessed with SSH for zero-install demos.
